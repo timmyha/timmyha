@@ -1,6 +1,5 @@
-### timothy hansher
 
-#### recent projects
+### recent projects
 
 [crashpad](https://crashpad.vercel.app), an AirBnb-like short-term rental app for vagrants, written in ReactJs with Firebase.
 
