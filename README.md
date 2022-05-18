@@ -7,7 +7,7 @@
 
 ## recent projects
 
-[porfolio](https://timmyha.vercel.app), built with ReactJs and styled-components.
+[my porfolio](https://timmyha.vercel.app), built with ReactJs and styled-components.
 
 [crashpad](https://crashpad.vercel.app), an AirBnb-like short-term rental app for vagrants, written in ReactJs with Firebase and react-router. Styled with CSS via styled-components. Maps provided by OpenStreetMap via LeafletJs. Geocoding by the wonderful [Free Geocoding API](https://geocode.maps.co/).
 
