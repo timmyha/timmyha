@@ -9,13 +9,20 @@
 
 [my porfolio](https://timmyha.vercel.app), built with ReactJs and styled-components.
 
-[i'm sorry](https://github.com/catmcclelland/another-apology-line), an apology
+**i'm sorry** [ [live](https://imsorry.vercel.app),[code](https://github.com/catmcclelland/another-apology-line) ] — an apology
 hotline/answering machine utilizing Twilio's Programmable Voice API. Call, leave
 a message, listen to user's apologies. Built with ReactJs, Node.js, Twilio, Firebase,
 and styled-components.
 
-[crashpad](https://crashpad.vercel.app), an AirBnb-like short-term rental app for vagrants, written in ReactJs with Firebase and react-router. Styled with CSS via styled-components. Maps provided by OpenStreetMap via LeafletJs. Geocoding by the wonderful [Free Geocoding API](https://geocode.maps.co/).
+**crashpad** [ [live](https://crashpad.vercel.app), [code](https://github.com/timmyha/crashpad) ] — an AirBnb-like short-term rental app for vagrants,
+ written in ReactJs with Firebase and react-router. Styled with CSS via styled-components. 
+ Maps provided by OpenStreetMap via LeafletJs. Geocoding by the 
+ wonderful [Free Geocoding API](https://geocode.maps.co/).
 
-[github search](https://timmy-github.herokuapp.com/), a simple user and repo search using Github's API. Find users, view profiles, navigate to repos. Written in ReactJs with react-router and axios. Styled in CSS via styled-components.
+**github search** [ [live](https://timmy-github.herokuapp.com/), [code](https://github.com/timmyha/github-search) ] — a simple user and repo search 
+using Github's API. Find users, view profiles, navigate to repos. Written in ReactJs with 
+react-router and axios. Styled in CSS via styled-components.
 
-[present day, present time](https://presentday.vercel.app/), a personal browser startpage, for displaying bookmarks, a to-do module, weather data. further modules and customizability upcoming. Built in ReactJs, styled with vanilla CSS.
+**present day, present time** [ [live](https://presentday.vercel.app/), [code](https://github.com/timmyha/startpage) ] — a personal browser startpage,
+ for displaying bookmarks, a to-do module, weather data. further modules and customizability 
+ upcoming. Built in ReactJs, styled with vanilla CSS.
