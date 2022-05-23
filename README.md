@@ -9,7 +9,7 @@
 
 [my porfolio](https://timmyha.vercel.app), built with ReactJs and styled-components.
 
-**i'm sorry** [ [live](https://imsorry.vercel.app),[code](https://github.com/catmcclelland/another-apology-line) ] — an apology
+**i'm sorry** [ [live](https://imsorry.vercel.app), [code](https://github.com/catmcclelland/another-apology-line) ] — an apology
 hotline/answering machine utilizing Twilio's Programmable Voice API. Call, leave
 a message, listen to user's apologies. Built with ReactJs, Node.js, Twilio, Firebase,
 and styled-components.
