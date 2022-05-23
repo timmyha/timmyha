@@ -14,7 +14,7 @@ hotline/answering machine utilizing Twilio's Programmable Voice API. Call, leave
 a message, listen to user's apologies. Built with ReactJs, Node.js, Twilio, Firebase,
 and styled-components.
 
-**crashpad** [ [live](https://crashpad.vercel.app), [code](https://github.com/timmyha/crashpad) ] — an AirBnb-like short-term rental app for vagrants,
+**crashpad** [ [live](https://crashpad.vercel.app), [code](https://github.com/timmyha/crashpad) ] — an AirBnb-like short-term rental app for wandering travellers,
  written in ReactJs with Firebase and react-router. Styled with CSS via styled-components. 
  Maps provided by OpenStreetMap via LeafletJs. Geocoding by the 
  wonderful [Free Geocoding API](https://geocode.maps.co/).
