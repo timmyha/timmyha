@@ -1,5 +1,5 @@
 
-# [portfolio](https://timmyha.vercel.app)
+# [timmyha.co](https://timmyha.vercel.app)
 
 #### my tools
 
@@ -7,7 +7,7 @@
 
 ## recent projects
 
-[my porfolio](https://timmyha.vercel.app), built with ReactJs and styled-components.
+[my porfolio](https://timmyha.co), built with ReactJs and styled-components.
 
 **i'm sorry** [ [live](https://imsorry.vercel.app), [code](https://github.com/catmcclelland/another-apology-line) ] — an apology
 hotline/answering machine utilizing Twilio's Programmable Voice API. Call, leave
