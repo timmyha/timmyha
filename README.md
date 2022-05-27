@@ -26,3 +26,5 @@ react-router and axios. Styled in CSS via styled-components.
 **present day, present time** [ [live](https://presentday.vercel.app/), [code](https://github.com/timmyha/startpage) ] — a personal browser startpage,
  for displaying bookmarks, a to-do module, weather data. further modules and customizability 
  upcoming. Built in ReactJs, styled with vanilla CSS.
+
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0n6pliuehft62qwk7nu83bu33&cover_image=true&theme=default&bar_color=ae6a92&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
