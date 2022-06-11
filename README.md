@@ -7,7 +7,7 @@
 
 ## recent projects
 
-**portfolio** [ [live](https://timmyha.co), [code](https://github.com/timmyha/portfolio-website) ] built with ReactJs and styled-components.
+**portfolio** [ [live](https://timmyha.co), [code](https://github.com/timmyha/portfolio-website) ] — a showcase of my recent projects built with ReactJs and styled-components.
 
 **i'm sorry** [ [live](https://imsorry.vercel.app), [code](https://github.com/catmcclelland/another-apology-line) ] — an apology
 hotline/answering machine utilizing Twilio's Programmable Voice API. Call, leave
