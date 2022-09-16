@@ -1,4 +1,3 @@
-
 # [timmyha.co](https://timmyha.vercel.app)
 
 #### my tools
@@ -7,7 +6,12 @@
 
 ## recent projects
 
-**portfolio** [ [live](https://timmyha.co), [code](https://github.com/timmyha/portfolio-website) ] — a showcase of my recent projects built with ReactJs and styled-components.
+**portfolio** [ [live](https://timmyha.co), [code](https://github.com/timmyha/portfolio-website) ] — a 
+showcase of my recent projects built with ReactJs and styled-components.
+
+**prefix** [ [live](https://prefix.vercel.app), [code](https://github.com/timmyha/prefix) ] - a browser 
+newtab start page, featuring a customizable search, configurable shortcuts, and a themeable interface, 
+built with React and Typescript.
 
 **i'm sorry** [ [live](https://imsorry.vercel.app), [code](https://github.com/catmcclelland/another-apology-line) ] — an apology
 hotline/answering machine utilizing Twilio's Programmable Voice API. Call, leave
@@ -15,16 +19,13 @@ a message, listen to user's apologies. Built with ReactJs, Node.js, Twilio, Fire
 and styled-components.
 
 **crashpad** [ [live](https://crashpad.vercel.app), [code](https://github.com/timmyha/crashpad) ] — an AirBnb-like short-term rental app for wandering travellers,
- written in ReactJs with Firebase and react-router. Styled with CSS via styled-components. 
- Maps provided by OpenStreetMap via LeafletJs. Geocoding by the 
- wonderful [Free Geocoding API](https://geocode.maps.co/).
+written in ReactJs with Firebase and react-router. Styled with CSS via styled-components.
+Maps provided by OpenStreetMap via LeafletJs. Geocoding by the
+wonderful [Free Geocoding API](https://geocode.maps.co/).
 
-**github search** [ [live](https://timmy-github.herokuapp.com/), [code](https://github.com/timmyha/github-search) ] — a simple user and repo search 
-using Github's API. Find users, view profiles, navigate to repos. Written in ReactJs with 
+**github search** [ [live](https://timmy-github.herokuapp.com/), [code](https://github.com/timmyha/github-search) ] — a simple user and repo search
+using Github's API. Find users, view profiles, navigate to repos. Written in ReactJs with
 react-router and axios. Styled in CSS via styled-components.
 
-**present day, present time** [ [live](https://presentday.vercel.app/), [code](https://github.com/timmyha/startpage) ] — a personal browser startpage,
- for displaying bookmarks, a to-do module, weather data. further modules and customizability 
- upcoming. Built in ReactJs, styled with vanilla CSS.
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0n6pliuehft62qwk7nu83bu33&cover_image=true&theme=default&bar_color=ae6a92&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0n6pliuehft62qwk7nu83bu33&cover_image=true&theme=default&bar_color=ae6a92&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
