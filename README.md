@@ -1,16 +1,12 @@
 # [timmyha.co](https://timmyha.vercel.app)
 
-#### my tools
-
-<img width="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg"><img width="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg"><img width="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg"><img width="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg"><img width="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg"><br /><img width="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg"><img width="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg"><img width="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg"><img width="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg"><img width="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg">
-
 ## recent projects
 
-**portfolio** [ [live](https://timmyha.co), [code](https://github.com/timmyha/portfolio-website) ] — a 
+**portfolio** [ [live](https://timmyha.co), [code](https://github.com/timmyha/portfolio-website) ] — a
 showcase of my recent projects built with ReactJs and styled-components.
 
-**prefix** [ [live](https://prefix.vercel.app), [code](https://github.com/timmyha/prefix) ] - a browser 
-newtab start page, featuring a customizable search, configurable shortcuts, and a themeable interface, 
+**prefix** [ [live](https://prefix.vercel.app), [code](https://github.com/timmyha/prefix) ] - a browser
+newtab start page, featuring a customizable search, configurable shortcuts, and a themeable interface,
 built with React and Typescript.
 
 **i'm sorry** [ [live](https://imsorry.vercel.app), [code](https://github.com/catmcclelland/another-apology-line) ] — an apology
@@ -28,4 +24,3 @@ using Github's API. Find users, view profiles, navigate to repos. Written in Rea
 react-router and axios. Styled in CSS via styled-components.
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0n6pliuehft62qwk7nu83bu33&cover_image=true&theme=default&bar_color=ae6a92&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
