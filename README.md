@@ -4,7 +4,7 @@
 
 **portfolio** <sup>[live](https://timmyha.co), [code](https://github.com/timmyha/portfolio-website)</sup> `a showcase of my recent projects built with ReactJs and styled-components.`
 
-**prefix** <sup>[live](https://prefix.vercel.app), [code](https://github.com/timmyha/prefix)</sup> `a browser newtab start page, featuring a customizable search, configurable shortcuts, and a themeable interface, built with React and Typescript.`
+**prefix** <sup>[live](https://prefix.timmyha.co), [code](https://github.com/timmyha/prefix)</sup> `a browser newtab start page, featuring a customizable search, configurable shortcuts, and a themeable interface, built with React and Typescript.`
 
 **i'm sorry** <sup>[live](https://imsorry.vercel.app), [code](https://github.com/catmcclelland/another-apology-line)</sup> `an apology hotline/answering machine utilizing Twilio's Programmable Voice API. Call, leave a message, listen to user's apologies. Built with ReactJs, Node.js, Twilio, Firebase, and styled-components.`
 
