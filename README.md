@@ -4,7 +4,7 @@
 
 technical support engineer at [whiplash](https://github.com/whiplashmerch)
 
-building my ideal photography social media (for lack of better words) space
+building my ideal film photography social-ish media space
 
 ## recent projects
 
