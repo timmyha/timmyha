@@ -1,5 +1,11 @@
 # [timmyha.co](https://timmyha.vercel.app)
 
+#### currently
+
+technical support engineer at [whiplash](https://github.com/whiplashmerch)
+
+building my ideal photography social media (for lack of better words) space
+
 ## recent projects
 
 **portfolio** <sup>[live](https://timmyha.co), [code](https://github.com/timmyha/portfolio-website)</sup> `a showcase of my recent projects built with ReactJs and styled-components.`
