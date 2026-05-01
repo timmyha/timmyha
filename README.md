@@ -2,7 +2,7 @@
 
 #### currently
 
-software developer at [whiplash](https://github.com/whiplashmerch)
+looking for a new role! hmu
 
 ## recent projects
 
